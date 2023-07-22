@@ -2,10 +2,15 @@
 Customers are able to detect and move towards the nearest table on each level:
 ![github-gif1](https://github.com/Chady00/2D-JavaRestaurantGame/assets/84717550/52fbb481-4b6d-4a73-99ab-40d0f24cd331)
 
+
 Ability to replace unneeded food:
+
+
 ![replacefoodGIF](https://github.com/Chady00/2D-JavaRestaurantGame/assets/84717550/544875c0-5571-459e-8468-72ee819a15aa)
 
-Ability to destroy client's blocking obstacles
+Ability to destroy client's blocking obstacles:
+
+
 ![destoryObstaclesGIF](https://github.com/Chady00/2D-JavaRestaurantGame/assets/84717550/073bd58e-a3a5-427f-8035-e8ee904b441b)
 
 
