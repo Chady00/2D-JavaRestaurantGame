@@ -1,5 +1,5 @@
 # 2D-JavaRestaurantGame
-Customers are able to detect and move towards the nearest table on each level:
+Customers are **autonomously** able to detect and move towards the nearest table on each level:
 
 ![findclosettable](https://github.com/Chady00/2D-JavaRestaurantGame/assets/84717550/1abf35c3-86c9-44c1-b56d-11334f72437d)
 
