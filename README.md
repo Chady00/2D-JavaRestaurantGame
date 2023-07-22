@@ -24,4 +24,4 @@ Some of the core future modifications:
 <table><tbody><tr><td>Error Handling: Implementing error handling mechanisms to handle<br>exceptions and unexpected inputs.</td></tr><tr><td>Code Refactoring: Analyzing the existing code for opportunities to<br>improve code structure, readability, and efficiency.</td></tr><tr><td>Performance Optimization: Analyzing performance bottlenecks and<br>optimizing the code for better efficiency.</td></tr><tr><td>Ul enhancement: adding a start menu, more features to enhance the<br>overall user experience.</td></tr><tr><td>Perform more testing, using techniques such as Top-down approach,<br>whiteBox testing, path coverage, and more.</td></tr></tbody></table>
 
  **These optimizations are not crucial for the application to work, but they will**  
-                                                                         **definitely enhance the code readability, user experience, and functionality.**
+ **definitely enhance the code readability, user experience, and functionality.**
